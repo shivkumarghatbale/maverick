@@ -1,0 +1,8 @@
+
+Objectives => 
+0. REST APIs to take userId as input & return connection string
+1. Share connection string to upstream services in encrypted format
+2. Authentication between ShardHelper service & DB shard
+3. Authentication between upstream service & ShardHelper service
+4. Shard ID to Shard connection string mapping
+5. Algo to map user ID to shard ID
